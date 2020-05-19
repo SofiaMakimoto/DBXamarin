@@ -1,0 +1,15 @@
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\bin\Debug\netstandard2.0\AppBD.deps.json
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\bin\Debug\netstandard2.0\AppBD.dll
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\AppBD.csprojAssemblyReference.cache
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\AppBD.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\AppBD.AssemblyInfo.cs
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\bin\Debug\netstandard2.0\ref\AppBD.dll
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\bin\Debug\netstandard2.0\AppBD.pdb
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\AppBD.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\AppBD.dll
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\ref\AppBD.dll
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\AppBD.pdb
+C:\Users\sofia\source\repos\AppBD\AppBD\AppBD\obj\Debug\netstandard2.0\AddCustomer.xaml.g.cs
